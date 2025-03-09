@@ -8,6 +8,8 @@ Tasks:
 
 - Task 3 on Google Drive: https://drive.google.com/file/d/14i0OdefzZkg08SMOzUc7BR7yV-o7cwNe/view?usp=drivesdk
 
+- Task 4 on Google Drive: https://drive.google.com/file/d/1gUWyIFvjEtYcGkXYKsEImkmvD-lXhm2j/view?usp=drivesdk
+
 
 Design Files:
 - Figma File Link: https://www.figma.com/design/dC1Z7bvsPzNFxknmYzlMYq/DEPI-Graduation-Project-Ui?node-id=401-3996&t=yGtRRqVea0ccRKsa-1
