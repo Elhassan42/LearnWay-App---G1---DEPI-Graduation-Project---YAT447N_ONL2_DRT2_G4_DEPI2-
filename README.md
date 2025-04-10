@@ -13,9 +13,9 @@ Tasks:
 
 - Task 2 on Google Drive: https://drive.google.com/file/d/1E7rhu-8kRevpdqifm47Rea0yyRHWCcyk/view?usp=sharing
 
-- Task 3 on Google Drive: https://drive.google.com/file/d/14i0OdefzZkg08SMOzUc7BR7yV-o7cwNe/view?usp=drivesdk
+- Task 3 on Google Drive: https://drive.google.com/file/d/1XNGDnGRoGif_GZ2IcrGJkGbkT0UToY-e/view?usp=drivesdk
 
-- Task 4 on Google Drive: https://drive.google.com/file/d/1gUWyIFvjEtYcGkXYKsEImkmvD-lXhm2j/view?usp=drivesdk
+- Task 4 on Google Drive: https://drive.google.com/file/d/1aqttjzm5t2yqgAr-s8h9QBs_4njPmHqS/view?usp=drivesdk
 
 
 Design Files:
@@ -23,5 +23,7 @@ Design Files:
 
 - FigJam File Link: https://www.figma.com/board/aoxAjlM3Hu6HBu49uricul/LearnWay---DEPI-Graduation-Project-Ux?node-id=0-1&t=2rVTJ9gK0PDje52Q-1
 
+Behance Project:
+https://www.behance.net/gallery/223258327/LearnWay
 
 
